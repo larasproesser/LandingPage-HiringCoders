@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css');
+
+html {
+  height: 100%;
+  width: 100%;
+  overflow-x: hidden;
+  margin: 0;
+}
+
+body {
+  min-width: 100%;
+  min-height: 100%;
+  margin: 0;
+  font-family: 'Anton', sans-serif;
+  overflow-x: hidden;
+}
+
+h1 {
+  font-family: 'Fredoka One', cursive;
+  font-size: 2rem;
+  -webkit-text-stroke-width: 2px;
+  text-transform: uppercase;
+}
+
+@media (max-width: 1024px) {
+  h1 {
+    font-size: 1.5rem;
+  }
+}
+
+a {
+  text-decoration: none;
+}

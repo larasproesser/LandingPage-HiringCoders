@@ -32,4 +32,4 @@ Todo mundo pronto para colocar a mão na massa? :)
 
 
 
-**Para acessar o site clique aqui!**
+**Para acessar o site [clique aqui!](https://purplefriday.netlify.app/)** :purple_heart:
